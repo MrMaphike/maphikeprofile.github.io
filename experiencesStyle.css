@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    background-color: rgba(42, 41, 41, 0.746);
+    background-color: rgba(0, 0, 0, 0.555);
     background-image: url(images/backgroundAboutMe.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -103,6 +103,10 @@ mark{
     color: rgb(255, 255, 255);
     font-size: 20px;
     
+}
+
+mark2{
+    background-color: rgba(0, 255, 128, 0.294);
 }
 
 .csharp {width: 90%; background-color:yellowgreen;}
